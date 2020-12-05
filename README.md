@@ -4,3 +4,4 @@
 - se aprenderan ramas
 - se aprendera git flow
 - adicional los pull request
+- Repasar consola
